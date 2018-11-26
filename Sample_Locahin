@@ -1,0 +1,48 @@
+# Declaring and initializing variables in Phyton
+
+#Strings
+izone = "Sakura"
+redvelvet = "Seulgi"
+bts = "Jungkook"
+blackpink = "Lisa"
+
+#Numerical_values
+bilang_ng_bias = 4
+bilangNgMembers = 28
+kaligayahan = 1.0
+
+print(izone)
+print(redvelvet)
+print(bts)
+print(blackpink)
+
+print(bilang_ng_bias)
+print(bilangNgMembers)
+print(kaligayahan)
+
+#Arithmetic
+addition = 1 + 1
+subtraction = 1 - 1
+division = 1 / 1
+multiplication = 1 * 1
+modulus = 5 % 3
+
+print(addition)
+print(subtraction)
+print(division)
+print(multiplication)
+print(modulus)
+
+if addition < division:
+    print("Hello")
+    print("is")
+    print("it")
+    print("me")
+    print("you're")
+    print("looking")
+    print("for")
+elif modulus < multiplication:
+    print("Kowloon")
+else:
+    print("Hi")
+    print("Ang chaka mo!")
