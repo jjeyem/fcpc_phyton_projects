@@ -4,8 +4,6 @@ for x in range (1,11):
 
         if z%2==0:
             print("e", end="\t")
-        if z%1==0:
-            print("o", end="\t")
         else:
 
             print(x*y, end = '\t')
